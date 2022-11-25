@@ -1,0 +1,21 @@
+{
+  "author": "Corno",
+  "description": "arithmetic functions",
+  "files": [
+    "dist"
+  ],
+  "license": "ISC",
+  "main": "dist/index.js",
+  "name": "glo-pareto-arithmetic",
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/corno/glo-pareto-arithmetic.git"
+  },
+  "types": "dist/index.d.ts",
+  "version": "0.1.0",
+  "dependencies": {
+    "pareto-core-types": "^0.6.0"
+  },
+  "interface-fingerprint": "26020867bff21a1f124ca605700eec0ab91be856",
+  "content-fingerprint": "004bae85a32ac864ee619ef2e4d20cd57b409206"
+}
